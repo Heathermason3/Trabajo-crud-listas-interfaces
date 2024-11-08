@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Text.Json.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Memory.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Buffers.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\obj\Debug\CapaDeDa.D72029D7.Up2Date
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Pedro\Desktop\WebEscuelaJson-main2\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

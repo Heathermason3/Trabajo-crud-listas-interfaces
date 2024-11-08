@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaDeNegocio.Clases.Singleton" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaDeNegocio.Singleton" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAgAEgAQAAAIAACAQABAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>Clases\SingletonUsuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CapaDeNegocio.Usuario" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAOAIAAAAAYAgAAAAAQAgAAACAAAAAAAAIAAAQAAAAA=</HashCode>
+      <FileName>Clases\Usuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CapaDeNegocio.IABMC" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IABMC.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IGenericSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGenericSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IID" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IID.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.Interfaces.ISingletonUsuario" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\ISingletonUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CapaDeNegocio.IUsuario" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAYAAAAAAAQAgAAAAAAAAAAAAIAAAQAAAAA=</HashCode>
+      <FileName>Interfaces\IUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
